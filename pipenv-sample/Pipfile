@@ -5,7 +5,9 @@ name = "pypi"
 
 [packages]
 requests = "*"
+urllib3 = "*"
 
 
 [dev-packages]
 pytest = "*"
+flake8 = "*"
